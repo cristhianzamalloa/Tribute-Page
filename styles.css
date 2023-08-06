@@ -1,0 +1,48 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightgray;
+}
+
+#title {
+    text-align: center;
+    margin: 2rem auto 2rem auto;
+}
+
+.spanH1 {
+    font-size: 60%;
+}
+
+#img-div{
+    background-color: black;
+    border: 10px solid whitesmoke;
+    padding: 4rem 35rem 4rem 35rem;
+    text-align: center;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    height: auto;
+    max-width: 100%;   
+}
+
+#img-caption {
+    color: antiquewhite;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+#tribute-info {
+    
+    padding: 4rem;
+    font-size: 1.1rem;
+}
+
+li{
+    margin: 1.5rem 3rem 1.5rem 3rem;
+}
+
+.date {
+    font-weight: bold;
+    margin-right: 2rem;
+}
